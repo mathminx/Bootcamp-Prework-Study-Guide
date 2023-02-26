@@ -20,4 +20,4 @@ N/A
 
 Please refer to the LICENSE in the repo.
 
-[![C:\Users\mathm\bootcamp\Badges\jQuery.png](C:\Users\mathm\bootcamp\Badges\jQuery.png)](C:\Users\mathm\bootcamp\Badges)
+[![Bootcamp-Prework-Study-Guide/assets/jQuery.png](C:Bootcamp-Prework-Study-Guide/assets/jQuery.png)](C:Bootcamp-Prework-Study-Guide/assets/)
