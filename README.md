@@ -19,3 +19,5 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
+
+[![C:\Users\mathm\bootcamp\Badges\jQuery.png](C:\Users\mathm\bootcamp\Badges\jQuery.png)](C:\Users\mathm\bootcamp\Badges)
