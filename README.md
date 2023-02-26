@@ -20,4 +20,4 @@ N/A
 
 Please refer to the LICENSE in the repo.
 
-[![Bootcamp-Prework-Study-Guide/assets/jQuery.png]
+[![https://Bootcamp-Prework-Study-Guide/assets/jQuery.png]
